@@ -1,9 +1,3 @@
-# ============================================================
-#   Movie Recommendation System (Content-Based Filtering)
-#   Author  : Your Name
-#   Method  : TF-IDF on Genres + Cosine Similarity + Ratings
-#   Libraries: pandas, numpy, matplotlib, scikit-learn
-# ============================================================
 
 import numpy as np
 import pandas as pd
